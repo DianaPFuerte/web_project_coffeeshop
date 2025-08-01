@@ -172,10 +172,10 @@ body {
   width: 480px;
   height: 273px;
   display: flex;
-  justify-content: center; /* centra los videos horizontalmente */
-  align-items: center; /* centra los videos verticalmente */
-  gap: 40px; /* espacio entre los videos */
-  margin: 0 auto; /* centra el contenedor en la sección */
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin: 0 auto;
   padding-top: 80px;
   padding-bottom: 215px;
 }
@@ -185,13 +185,13 @@ body {
   height: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center; /* centra el contenido de cada video */
-  justify-content: center; /* elimina el gap interno para que solo el externo cuente */
+  align-items: center;
+  justify-content: center;
 }
 
 .video__iframe {
   width: 100%;
-  height: 80%; /* ajusta según el espacio que quieras para el video */
+  height: 80%;
   border: none;
 }
 
