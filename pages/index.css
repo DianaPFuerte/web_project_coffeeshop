@@ -233,6 +233,7 @@ body {
   font-size: 44px;
   line-height: 52px;
   padding-top: 100px;
+  padding-bottom: 80px;
   color: #000000;
   text-align: center;
   margin: 0;
@@ -242,7 +243,6 @@ body {
   display: flex;
   flex-direction: column;
   text-align: left;
-  padding-top: 48px;
   padding-bottom: 120px;
   width: 90%;
   max-width: 385px;
@@ -254,7 +254,7 @@ body {
   font-style: normal;
   line-height: 20px;
   margin-bottom: 8px;
-  margin-top: 32px;
+
   font-size: 16px;
   font-weight: 500;
 }
@@ -271,6 +271,7 @@ body {
   line-height: 30px;
   font-style: normal;
   font-weight: normal;
+  margin-bottom: 32px;
 }
 
 .reservation__input:focus {
@@ -290,7 +291,7 @@ body {
 
   max-width: 385px;
   width: 100%;
-  margin-top: 32px;
+
   margin-bottom: 32px;
 
   font-family: "Inter";
@@ -315,7 +316,7 @@ body {
   height: 20px;
 }
 
-.form__checkbox {
+.reservation__checkbox {
   display: flex;
   align-items: center;
   justify-content: center;
