@@ -233,10 +233,13 @@ body {
   font-size: 44px;
   line-height: 52px;
   padding-top: 100px;
-  padding-bottom: 80px;
+  /*padding-bottom: 80px;*/
   color: #000000;
   text-align: center;
-  margin: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 80px;
+  margin-top: 0;
 }
 
 .form {
