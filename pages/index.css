@@ -236,8 +236,8 @@ body {
   /*padding-bottom: 80px;*/
   color: #000000;
   text-align: center;
-  margin-left: 0;
-  margin-right: 0;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 80px;
   margin-top: 0;
 }
