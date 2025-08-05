@@ -90,7 +90,6 @@
 }
 
 .form__checkbox-input:checked {
-  background-color: #2f80ed;
-  color: #ffffff;
-  border-color: #2f80ed;
+  background: #2f71e5 url(../images/check.svg) no-repeat center;
+  background-size: 60%;
 }
