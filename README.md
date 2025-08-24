@@ -22,3 +22,7 @@ Este sitio está pensado para brindar una experiencia amigable, informativa y vi
 A futuro, se planea:
 
 - Implementar su parte de back-end implementando **JavaScript** para la interacción dinámica de los elementos.
+
+## Deployment
+
+https://dianapfuerte.github.io/web_project_coffeeshop/
